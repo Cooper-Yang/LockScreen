@@ -25,8 +25,19 @@ proguard/
 # Log Files
 *.log
 
+# Windows thumbnail db
+Thumbs.db
+
+# Eclipse project files
+.classpath
+.project
+
 # Android Studio Navigation editor temp files
 .navigation/
 
 # Android Studio captures folder
 captures/
+
+# Android Studio Folders
+*.iml
+.idea/
